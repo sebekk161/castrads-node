@@ -1,0 +1,15 @@
+{
+  "name": "castrads",
+  "version": "0.0.1",
+  "dependencies": {
+    "backbone-amd": "",
+    "jquery":"",
+    "requirejs" : "",
+    "underscore-amd": ""
+  },
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "components"
+  ]
+}
