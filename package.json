@@ -5,8 +5,7 @@
   "version:": "0.0.1",
   "private": "true",
   "dependencies": {
-    "express":"*",
-    "jade": "*"
+    "express":"*"
   },
   "devDependencies": {
     "grunt": "~0.4.1",
